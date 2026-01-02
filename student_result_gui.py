@@ -156,3 +156,4 @@ fail_label = tk.Label(summary_frame, text="Fail: 0.00%", font=("Arial", 11), bg=
 fail_label.pack(side=tk.LEFT, padx=15)
 
 root.mainloop()
+
